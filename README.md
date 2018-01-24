@@ -1,7 +1,6 @@
 Security Sensor Shield for Arduino
 ==================================
-Copyright 2017 SuperHouse Automation Pty Ltd  
-SuperHouse site:  www.superhouse.tv  
+Copyright 2017-2018 SuperHouse Automation Pty Ltd: www.superhouse.tv  
 
 Based on the circuit described in the "Security / Automation Sensors"
 project in the book "Practical Arduino", this breakout allows up to 8
@@ -31,12 +30,12 @@ Features:
 
  * Supports 8 sensor channels simultaneously.
  * Sensor power supply connections.
- * Green "Sensor power on" LED.
+ * "Sensor power on" LED.
+ * Optional status LEDs for each channel
 
 More information is available at:
 
   http://www.superhouse.tv/iosec8  
-  http://www.practicalarduino.com/projects/security-sensors
 
 
 INSTALLATION
