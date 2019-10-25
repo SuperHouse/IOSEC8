@@ -7,6 +7,8 @@ project in the book "Practical Arduino", this breakout allows up to 8
 security sensors to be connected with full End-Of-Line (EOL) support to
 detect tampering.
 
+![PCB render](IOSEC8-v4_0-render_1.jpg)
+
 Supported sensors include:
 
  * PIR (passive infrared) motion detectors.
