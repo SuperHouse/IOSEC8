@@ -1,6 +1,6 @@
-Security Sensor Shield for Arduino
-==================================
-Copyright 2017-2018 SuperHouse Automation Pty Ltd: www.superhouse.tv  
+Security Sensor Breakout
+========================
+Copyright 2017-2019 SuperHouse Automation Pty Ltd: www.superhouse.tv  
 
 Based on the circuit described in the "Security / Automation Sensors"
 project in the book "Practical Arduino", this breakout allows up to 8
